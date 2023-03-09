@@ -1,6 +1,6 @@
 # Pavel Fralou
 
-![Certificate Lever X](./assets/img/my_photo_resized.jpg)
+![my-foto](./assets/my_photo_resized.jpg)
 
 ## Contacts
 
@@ -31,7 +31,7 @@ https://rolling-scopes-school.github.io/frolixman-JSFEPRESCHOOL2022Q2/travel/
 - Epam, Introduction to Java Online
 - LeverX Group, Intro to IT:
 
-![Certificate Lever X](./assets/img/Certificate_Lever_X_resized.jpg)
+![Certificate Lever X](./assets/Certificate_Lever_X_resized.jpg)
 
 ## Languages:
 - Russian - Native
