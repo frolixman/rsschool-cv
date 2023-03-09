@@ -8,7 +8,6 @@
 - **Phone:** +375293233575s
 - **Discord:** frolixMan#3099
 - **e-mail:** frolovpo@gmail.com
-- **Discord:** frolixMan (@frolixman)
 
 ## About Me
 I am sociable, polite, tactful, teaching, I achieve my goals. Graduated from high school with a red diploma. I am able to work in a team and manage it. Organized events for more than 400 guests, with the involvement of contractors from Belarus and Russia. I have a lot of experience working in front of an audience.
